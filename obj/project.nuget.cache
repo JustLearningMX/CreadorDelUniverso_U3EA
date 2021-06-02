@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NeeZ3qGoNy8YxmAUJ9O8/zrUWvXvgGhZBI2/0p76BVV73l/3Bc5uLZWW5X99WPTGBg36aX/3xnGQf7czXHqew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marih\\Documents\\.NET Projects\\DPRN2_U3_EA_HICL\\DPRN2_U3_EA_HICL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marih\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
